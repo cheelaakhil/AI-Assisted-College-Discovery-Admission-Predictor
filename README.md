@@ -1,4 +1,4 @@
-# College Compass (College Discovery Platform)
+# AI-Assisted-College-Discovery-Admission-Predictor
 
 College Compass is a modern, full-stack web application designed to help students discover, compare, and predict their chances of admission to various top engineering colleges in India. Built with a focus on user experience and reliable information, the platform offers an intuitive interface to streamline the complex college selection process.
 
