@@ -1,5 +1,3 @@
-# AI-Assisted-College-Discovery-Admission-Predictor
-
 <div align="center">
 
 <h1>AI-Powered College Discovery & Admission Intelligence Platform</h1>
